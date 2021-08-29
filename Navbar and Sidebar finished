@@ -1,0 +1,17 @@
+[33mcommit f8f3329994fbcf9a6eddbd2223ec1a074e2a4d92[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: [Alon Cohen] <[aloncohen2904@gmail.com]>
+Date:   Sun Aug 29 18:27:37 2021 +0100
+
+    first commit
+
+[33mcommit c8ddab1e40de5ae857ac08a46292551227968ba7[m
+Author: [Alon Cohen] <[aloncohen2904@gmail.com]>
+Date:   Sun Aug 29 18:24:09 2021 +0100
+
+    first commit
+
+[33mcommit 0865f4a26d0b2a0120cdf10c41af5b3434e4016f[m
+Author: Alon Cohen <alonc29.p@gmail.com>
+Date:   Sat Aug 28 08:22:11 2021 +0100
+
+    Initialize project using Create React App
