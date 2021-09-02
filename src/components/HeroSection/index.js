@@ -20,8 +20,8 @@ const HeroSection = () => {
         </HeroBg>
 
         <HeroContent>
-            <HeroH1>Recipes that everyone loves</HeroH1>
-            <HeroP>Visit our website to get some great ideas for great meals</HeroP>
+            <HeroH1>Gourmet Catering Services</HeroH1>
+            <HeroP>We will make any celebration of yours into a gourmet dining event</HeroP>
 
             <HeroBtnWrapper>
                 <Button to="subscribe" onMouseEnter={onHover}

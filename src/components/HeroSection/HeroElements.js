@@ -78,6 +78,7 @@ font-size:24px;
 text-align: center;
 max-width: 600px;
 
+
 @media screen and (max-width: 768px) {
     font-size: 24px;
 }
@@ -91,7 +92,7 @@ max-width: 600px;
 export const HeroBtnWrapper = styled.div`
 margin-top: 32px;
 display: flex;
-flex-dricetion: column;
+flex-direction: column;
 align-items: center;
 
 `
