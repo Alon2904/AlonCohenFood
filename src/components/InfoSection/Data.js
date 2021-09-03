@@ -1,6 +1,7 @@
 import Img1 from '../../images/svg-2.svg';
 import Img2 from '../../images/cake3.png';
 import Img3 from '../../images/chef1.png';
+import Img4 from '../../images/table.png';
 
 
 
@@ -69,13 +70,32 @@ lightTextDesc: false,
 topLine: 'enjoy the people you love',
 headline: 'Private Chef In Your Kitchen',
 description: 'Enjoy the time with your loved ones while WE are making food in your kitchen with ingridients that we brought and even plates that we have brought if needed ',
-buttonLabel: 'start now',
+buttonLabel: 'Tell Us About Your Event',
 imgStart: false,
 img: Img3,
-alt: 'Car',
+alt: 'chef cooking',
 dark: false,
 primary: false,
 darkText: true,
+coverPhoto: require('../../images/infoCoverPhoto.jpg'),
+
+}
+
+export const homeObjFour = {
+    id: 'dine',
+    lightBg: false,
+    lightText: true,
+lightTextDesc: true,
+topLine: 'amazing & delicious expirience',
+headline: 'Our Chefs also Hosts Dinners',
+description: 'Every one of our chefs has they own speciality cousin. It dosent matter if you fancy BBQ, Japanese or middle eastern cousine! Just pick one of our chefs accordding to what you want and they will cook an amazing dinner for you and will host you in their place',
+buttonLabel: 'To Our Home Dinners Gallery',
+imgStart: true,
+img: Img4,
+alt: 'table',
+dark: true,
+primary: true,
+darkText: false,
 coverPhoto: require('../../images/infoCoverPhoto.jpg'),
 
 }
