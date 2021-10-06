@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/AlonCohenFood/static/css/main.218a8171.chunk.css",
+    "main.js": "/AlonCohenFood/static/js/main.10d3121e.chunk.js",
+    "main.js.map": "/AlonCohenFood/static/js/main.10d3121e.chunk.js.map",
+    "runtime-main.js": "/AlonCohenFood/static/js/runtime-main.b4c94ea7.js",
+    "runtime-main.js.map": "/AlonCohenFood/static/js/runtime-main.b4c94ea7.js.map",
+    "static/js/2.e6b571dc.chunk.js": "/AlonCohenFood/static/js/2.e6b571dc.chunk.js",
+    "static/js/2.e6b571dc.chunk.js.map": "/AlonCohenFood/static/js/2.e6b571dc.chunk.js.map",
+    "index.html": "/AlonCohenFood/index.html",
+    "static/css/main.218a8171.chunk.css.map": "/AlonCohenFood/static/css/main.218a8171.chunk.css.map",
+    "static/js/2.e6b571dc.chunk.js.LICENSE.txt": "/AlonCohenFood/static/js/2.e6b571dc.chunk.js.LICENSE.txt",
+    "static/media/cake3.981ae166.png": "/AlonCohenFood/static/media/cake3.981ae166.png",
+    "static/media/call.1ba2b7a9.png": "/AlonCohenFood/static/media/call.1ba2b7a9.png",
+    "static/media/chef1.87960d1d.png": "/AlonCohenFood/static/media/chef1.87960d1d.png",
+    "static/media/email.ca1ec769.png": "/AlonCohenFood/static/media/email.ca1ec769.png",
+    "static/media/infoCoverPhoto.jpg": "/AlonCohenFood/static/media/infoCoverPhoto.fe726d87.jpg",
+    "static/media/message.a6fbe1dc.png": "/AlonCohenFood/static/media/message.a6fbe1dc.png",
+    "static/media/svg-2.695b22dc.svg": "/AlonCohenFood/static/media/svg-2.695b22dc.svg",
+    "static/media/table.e90f0b94.png": "/AlonCohenFood/static/media/table.e90f0b94.png",
+    "static/media/video.06c9eccb.mp4": "/AlonCohenFood/static/media/video.06c9eccb.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b4c94ea7.js",
+    "static/js/2.e6b571dc.chunk.js",
+    "static/css/main.218a8171.chunk.css",
+    "static/js/main.10d3121e.chunk.js"
+  ]
+}
