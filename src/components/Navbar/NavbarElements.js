@@ -1,10 +1,12 @@
 import styled from 'styled-components';
 import { Link as LinkR } from 'react-router-dom';
 import { Link as LinkS} from 'react-scroll';
+import React, {useState, useEffect} from 'react';
+
 
 
 export const Nav = styled.nav`
-background:#000;
+background:${({ scrollNav}) => (scrollNav ? '#000' : 'transparent')};
 height:80px;
 margin-top:-80px;
 display: flex;
@@ -48,7 +50,7 @@ text-decoration: none;
 export const MobileIcon=styled.div`
 display: none;
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 840px) {
     display: block;
     position: absolute;
     top: 0;
@@ -67,7 +69,7 @@ list-style: none;
 text-align:center;
 margin-right: -22px;
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 840px) {
     display:none;
 }
 `;
@@ -86,8 +88,9 @@ height: 100%;
 cursor:pointer;
 
 
-&.active {
-    border-bottom: 3px solid #01bf71;
+ &.active {
+     
+    border-bottom: 5px solid #01bf71;
 }
 `;
 
@@ -95,7 +98,7 @@ export const NavBtn=styled.nav`
 display: flex;
 align-items: center;
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 840px) {
     display: none;
 }
 `

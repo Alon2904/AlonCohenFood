@@ -17,16 +17,21 @@ const Sidebar = ({isOpen,toggle}) => {
                     </SidebarLink>
                     
 
-                    <SidebarLink to="discover" onClick={toggle}>
-                    Discover
+                    <SidebarLink to="wedding" onClick={toggle}>
+                    Weddings
                     </SidebarLink>
 
-                    <SidebarLink to="services" onClick={toggle}>
-                    Services
+                    <SidebarLink to="dinner" onClick={toggle}>
+                    Host a Dinner
                     </SidebarLink>
 
-                    <SidebarLink to="signup" onClick={toggle}>
-                    Sign Up
+                    <SidebarLink to="dine" onClick={toggle}>
+                    Dine With Our Chefs
+                    </SidebarLink>
+
+
+                    <SidebarLink to="contact" onClick={toggle}>
+                        Contact
                     </SidebarLink>
 
                     
